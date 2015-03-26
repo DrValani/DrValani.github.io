@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>  
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>   
+  <script>     
+  $(function(){ $("head").load("head.html") });
+  $(function(){    
+    $("#header").load("header.html"); 
+    $("#body").load("body/".concat(location.pathname.substring(location.pathname.lastIndexOf("/") + 1)));
+    $("#footer").load("footer.html"); 
+  });     
+  </script>   
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
+</head>
+<body>
+<div id="header"></div>
+<!--div id="body"></div-->
+
+
+<section class="row-alt">
+  <div class="lead container">
+    <h1>Sandbox</h1>
+    <p>Interactive zero plots, with the ability to zoom in on sections. </p>
+  </div>
+  </section>
+
+
+<section class="body">
+<div id="graph" class="zeroplots"></div>
+</section>
+<script>
+g = new Dygraph(
+  document.getElementById("graph"),
+  "2-05x05x10-110.data",
+                 // For possible data formats, see http://dygraphs.com/data.html
+                 // The x-values could also be dates, e.g. "2012/03/15"
+                 //"X,Y\n" +
+                 //"0,3\n" +
+                 //"2,6\n" +
+                 //"4,8\n" +
+                 //"6,9\n" +
+                 //"8,9\n" +
+                 //"10,8\n" +
+                 //"12,6\n" +
+                 //"14,3\n",
+                 {
+                     // options go here. See http://dygraphs.com/options.html
+                   delimiter: ' ',
+		 //    legend: 'always',
+                 //   animatedZooms: true,
+                 //   title: 'dygraphs chart to template',
+                 //    stepPlot: true,
+		     drawPoints: true,
+                     strokeWidth: 0,
+		     axes: { 
+                             x : { drawAxis: true, drawGrid: true, valueRange: [-2,2] },
+                             y : { drawAxis: true, drawGrid: true, valueRange: [-2,2] }
+			    },
+                 });
+</script>
+
+
+<div id="footer"></div>
+</body>
+</html>
