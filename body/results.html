@@ -1,3 +1,8 @@
+<script type="text/javascript">
+function latticeDim(x, y, z){
+document.writeln(<span>x + ' ' + y * z</span>);
+}
+</script>
 <section class="row-alt">
 <div class="lead container">
 <h1>Results</h1>
@@ -8,8 +13,7 @@
 <div class="group">
 <section class="container">
 <section id="pearson">
-<p>In 1991 Pearson, calculated the exact partition function for the 4x4x4 Ising model. Plotting Pearson's results against my own. I also managed to calculate this using my program, the results are compared:</p>
-
+	<p>In 1991 Pearson, calculated the exact partition function for the <script type="text/javascript">latticeDim(4,4,4);</script> Ising model. Plotting Pearson's results against my own. I also managed to calculate this using my program, the results are compared:</p>
 <h1>Pearson vs Yogi</h1>
 This page displays my results against R.B Pearsons.
 <figure>
@@ -374,3 +378,5 @@ only connecting the rows</td>
 </ul>
 </section>
 </div>
+
+
