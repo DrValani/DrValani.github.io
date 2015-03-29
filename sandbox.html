@@ -1,14 +1,27 @@
 <html>
-<head>
- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-</head> 
-<body>
-<p>Hello world <span>5 5 N</span>i and my next one <span data-d1="4" data-d2="4">4x4x4</span></p>
-<script>
-$(function(){
-    var span = 
-});
-$("p").text("Good bye");
-</script>
-</body>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	</head> 
+	<body>
+		<p>Hello world <span class="latticeDimension">5 5 N</span> i and my next one <span class="latticeDimension">4x4x4</span>
+		</p>
+		<script>
+						$( ".latticeDimension" )
+						.replaceWith(
+							  "1 " + $(".latticeDimension").contents().get(0).nodeValue
+							//parse(State)
+							);
+
+								function parse(dim){
+												return dim + "1";
+												//return "<strong>4</strong>x4x7";   
+												 }
+
+			//$( ".latticeDimension" ).replaceWith($(LatticeDimensionParse("4x4x5")));
+			//$(function LatticeDimensionParse(dimension){
+			//	"<strong>4</strong>x4x6";
+			//});
+			//$("p").text("Good bye");
+		</script>
+	</body>
 </html>
