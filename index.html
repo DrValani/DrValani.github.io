@@ -1,19 +1,19 @@
+---
+---
 <!DOCTYPE html>
 <html>
 <head>  
+  {% include head.html %}
    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>   
   <script>     
-  $(function(){ $("head").load("head.html") });
   $(function(){    
-    $("#header").load("header.html"); 
     $("#body").load("body/".concat(location.pathname.substring(location.pathname.lastIndexOf("/") + 1)));
-    $("#footer").load("footer.html"); 
   });     
   </script>   
 </head>
 <body>
-<div id="header"></div>
+{% include header.html %}
 <div id="body"></div>
-<div id="footer"></div>
+{% include footer.html%}
 </body>
 </html>
