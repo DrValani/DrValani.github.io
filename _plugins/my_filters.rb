@@ -1,17 +1,17 @@
 module MyFilters
-	module HeadlineFilter
-	  def headline(input)
-		      "<h1>#{input}</h1>"
-           end
-	end
-
 	module LatticeDimensionFilter
 	   def latticeDimension(input)
-		"<strong>5</strong>x5xN"
+		value = ""
+		input.split(" ").each{ |word|
+			if word[0].eql?("_") then
+				value += "<strong>#{ word.delete "_" }</strong>"
+			else
+				value += word
+			end
+		}
+	   	value
 	   end	   
 	end
-
 end
 
-Liquid::Template.register_filter(MyFilters::HeadlineFilter)
 Liquid::Template.register_filter(MyFilters::LatticeDimensionFilter)
