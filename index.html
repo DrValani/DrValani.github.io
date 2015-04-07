@@ -1,9 +1,12 @@
----
----
 <!DOCTYPE html>
 <html>
 <head>  
-  {% include head.html %}
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<title>Yogi Phd Blogged</title>
+<link rel="stylesheet" href="assets/stylesheets/main.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
+
    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>   
   <script>     
   $(function(){    
@@ -12,8 +15,37 @@
   </script>   
 </head>
 <body>
-{% include header.html %}
+<header class="primary-header container group">
+  <section class="container">
+    <h1 class="logo"><a href="index.html">Yogi's <br/> Blog</a></h1>
+  </section>
+  <h3 class="tagline">PhD Maths<br/>  Senior Software Developer</h3>
+  <nav class="nav primary-nav:">
+    <a href="index.html">Home</a>
+    <a href="overview.html">Overview</a>
+    <a href="code.html">Code</a>
+    <a href="results.html">Results</a>
+    <a href="interactive-results.html">Interactive Results</a>
+    <a href="sandbox.html">sandbox</a>
+    <a href="about.html">About me</a>
+</nav>
+
+</header>
+
 <div id="body"></div>
-{% include footer.html%}
+<footer class="primary-footer container group">
+  <small>&copy;Yogendra Valani</small>
+  <nav class="nav primary-nav:">
+    <a href="index.html">Home</a>
+    <a href="overview.html">Overview</a>
+    <a href="code.html">Code</a>
+    <a href="results.html">Results</a>
+    <a href="interactive-results.html">Interactive Results</a>
+    <a href="sandbox.html">sandbox</a>
+    <a href="about.html">About me</a>
+</nav>
+
+</footer>
+
 </body>
 </html>
