@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
+    url: 'http://yogivalani.com/blog/'
     text: 'Here I describe my journey from being a programmer to becoming a software developer. My experiences working in various development environments, best practices, successes and failures.'
     image: unsplash_9-302x182.jpg
 widget-2:
