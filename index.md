@@ -15,7 +15,7 @@ widget-1:
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "A PhD in Mathematics?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
+    url: 'http://yogivalani.com/phd/'
     text: 'In 2011, I was awarded I PhD, here I answer some faq:<br>1. What was it on?<br>2. What where the challenges you faced?<br>3. Results...what do the weird beattle looking pictures and animations mean?<br>4. Interactive results...a chance for you customise and analysis my results as required.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
