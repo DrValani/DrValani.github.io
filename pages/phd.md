@@ -20,13 +20,13 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include improve_content.html %}
 
-## Different Page/Posts Formats   {#formats}
+## Results    {#results}
 
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
+Partition functions can be represented in terms of polynomials. These results are displayed in terms of the zeros of the polynomials, plotted in the complex plane. 
 
-### Page/Post
+
+### Interactive Results 
 The [page/post format]({{ site.url }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
 
 use in front matter via: `layout: page`
