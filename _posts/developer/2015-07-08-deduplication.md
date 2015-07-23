@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Gorkana
+subheadline: Projects
 title:  "De-Duplication"
 teaser: "Saving over £125K per annum proud to be a part of the project from inception to delivery. We overcame many challenges such as integrating into a established legacy workflow."
 breadcrumb: true
