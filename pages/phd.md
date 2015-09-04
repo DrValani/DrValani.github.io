@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "On the partition function for the three-dimensional Ising model"
 subheadline: "Ph.D Thesis title"
-teaser: "Here I hope to present my results beyond the restrictions of printed paper..."
+teaser: "A presentation of my phd results beyond the restrictions of printed paper..."
 permalink: "/phd/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
@@ -24,6 +24,9 @@ header:
 ## Results    {#results}
 
 Partition functions can be represented in terms of polynomials. These results are displayed in terms of the zeros of the polynomials, plotted in the complex plane. 
+
+[Result Zero and Polynomial]({{ site.url}}/phd/result/)
+
 
 
 ### Interactive Results 
