@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Yogi Valani – Mathematics PhD & Software Developer"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_unsplash_13.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://yogivalani.com/blog/'
