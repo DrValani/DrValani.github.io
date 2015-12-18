@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline : Projects
-title:  "An example of lean software development by amazon"
-teaser: "Here is an example from aws console of how software can be released"
+title:  "Lean development and the user experience"
+teaser: "An example of lean software development by amazon"
 breadcrumb: true
 categories:
     - development
@@ -12,9 +12,8 @@ tags:
     - post
     - post format
 image:
-    title: "unsplash_1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    title: "ecs_homepage.jpg"
+    caption: Amazon's elastic container service
 author: yogi valani
 ---
 
@@ -26,7 +25,3 @@ I thought I would use the aws console on the Elastic container service as an exa
 
 The screenshot below shows a list of clusters that we have set up. More and more features are being added to this page, but even right now its
 still pretty basic. There is no feature to filter clusters, but that is ok, I can put up with that because when I click on my cluster, it is pretty rich in useful feature which I would find more helpful (see second screenshot).
-
-
-
-The Elastic container service is pretty new, shiny. But not all features have been released. For example
