@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline : Projects
+subheadline : Agile Practices
 title:  "Lean development and the user experience"
 teaser: "An example of lean software development by amazon"
 breadcrumb: true
