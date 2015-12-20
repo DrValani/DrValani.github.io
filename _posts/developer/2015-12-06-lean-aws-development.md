@@ -23,5 +23,4 @@ is from the front end web page, to the data source.
 I am at a disagreement with my product owner on what the next story should be, or how exactly we should implement the stories in our backlog.
 I thought I would use the aws console on the Elastic container service as an example to back my case.
 
-The screenshot below shows a list of clusters that we have set up. More and more features are being added to this page, but even right now its
-still pretty basic. There is no feature to filter clusters, but that is ok, I can put up with that because when I click on my cluster, it is pretty rich in useful feature which I would find more helpful (see second screenshot).
+The screenshot shows a list of clusters that we have set up. More and more features are being added to this page, but even right now its still pretty basic. There is no feature to filter clusters, but that is ok, I can put up with that because when I click on my cluster, it is pretty rich in useful feature which I would find more helpful (see second screenshot).
