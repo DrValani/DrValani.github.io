@@ -3,10 +3,10 @@
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-#- name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Twitter
+  url: http://twitter.com/DrValani
+  class: icon-twitter
+  title: "Follow me tweeting for updates"
 
 #- name: Facebook
 #  url: http://www.facebook.com/phlow.media
@@ -21,7 +21,7 @@
 - name: GitHub
   url: http://github.com/DrValani
   class: icon-github
-  title: Code und mehr...
+  title: Code and more...
 
 #- name: Instagram
 #  url: http://instagram.com/phlowmedia

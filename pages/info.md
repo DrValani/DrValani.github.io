@@ -1,42 +1,38 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "Why this blogging site?"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "Mainly to share my thoughts and document the practices that have helped/hindered me along the way... "
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
+...and while this site is very much a work in progress, I hope to iteratively add more useful content
 
 ## Features
 
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
+* What not to do when programming in academic environment...
+* Best agile practices
+* Best software development practices
+* TDD approach to learning new features to any programming language
+* Being able to view my phd results as animations
+* Description of my PhD
 
 
+## I was inspired and helped by...
 
-## I got inspired by...
+my colleague [John Nye][8] to build this website. Thank you for breaking the mental barriers I had around creating a blog.
+Also for kicking me off with Jekyll.
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+## Website template
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+I used *Feeling Responsive*, and you can make it yours and if you like it, please link back to <a href="http://phlow.de/">Phlow</a>.
 
-#### Since then, fork it!
+#### Thanks for reading
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+Yours sincerelly, Yogendra Valani
 
 
  [1]: http://mademistakes.com/about/
@@ -46,6 +42,6 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [5]: http://www.smashingmagazine.com/
  [6]: https://github.com/
  [7]: http://sauer.io
- [8]: #
+ [8]: http://jnye.co
  [9]: #
  [10]: #

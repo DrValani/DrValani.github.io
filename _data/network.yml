@@ -1,21 +1,16 @@
-- menu_name: "Dankeschön"
+- menu_name: "Acknowledgements"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
+- name: "Website template"
+  url: "https://phlow.github.io/feeling-responsive/"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Jekyll template by Moritz Sauer"
 
 - name: "Images by Unsplash"
   url: "http://unsplash.com/"
   class: "rss-link"
   title: "Images by Unsplash"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+- name: "Hosting by Github"
+  url: "http://github.com"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Thank you for hosting this site"
