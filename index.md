@@ -17,7 +17,7 @@ widget-2:
     title: "A Mathematics PhD"
     url: 'http://yogivalani.com/phd/'
     text: 'In 2011, I was awarded a PhD in Mathematics. Here you will find content that I physically could not get into my thesis'
-    image: phd/the-pinch.gif
+    image: phd/the-pinch-302x182.png
 widget-3:
     title: "Fatherhood, Family & Life"
     url: 'https://github.com/Phlow/feeling-responsive'
