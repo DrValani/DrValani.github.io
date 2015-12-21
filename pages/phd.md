@@ -27,10 +27,10 @@ Partition functions can be represented in terms of polynomials. These results ar
 
 [Result Zero and Polynomial]({{ site.url}}/phd/result/)
 
+## Interactive Results {#interactive}
 
+A first stab at displaying results that allow the user to zoom in/out and overlay other results. [Interactive Sandbox]({{ site.url}}/phd/interactive/)
 
-### Interactive Results
-The [page/post format]({{ site.url }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
