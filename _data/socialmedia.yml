@@ -1,3 +1,8 @@
+- name: LinkedIn
+  url: https://linkedin.com/in/yogiv
+  class: icon-linkedin
+  title: "Find out more about my experience"
+
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube

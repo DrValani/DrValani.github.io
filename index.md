@@ -10,17 +10,17 @@ header:
    image_fullwidth: "header_unsplash_13.jpg"
 widget-1:
     title: "Professional software developer"
-    url: 'http://yogivalani.com/blog/'
+    url: 'blog/'
     text: 'Here I describe my journey from being a programmer to becoming a software developer. My experiences working in various development environments, best practices, successes and failures.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "A Mathematics PhD"
-    url: 'http://yogivalani.com/phd/'
+    url: 'phd/'
     text: 'In 2011, I was awarded a PhD in Mathematics. Here you will find content that I physically could not get into my thesis'
     image: phd/the-pinch-302x182.png
 widget-3:
     title: "Fatherhood, Family & Life"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    url: 'personal/'
     text: 'A little about moi, my family life and the book that has a huge impact on my life'
     image: Priyena.jpg
 ---
