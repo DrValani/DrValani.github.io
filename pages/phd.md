@@ -23,7 +23,7 @@ header:
 ## Interactive Results {#interactive}
 A first stab at displaying results that allow the user to zoom in/out and overlay other results. [Interactive Sandbox]({{ site.url}}/phd/interactive/)
 
-## Results    {#results}
+## Results {#results}
 Partition functions can be represented in terms of polynomials. These results are displayed in terms of the zeros of the polynomials, plotted in the complex plane.
 
 [Result Zero and Polynomial]({{ site.url}}/phd/results/)
@@ -31,7 +31,6 @@ Partition functions can be represented in terms of polynomials. These results ar
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
 
 
 </div><!-- /.medium-8.columns -->
