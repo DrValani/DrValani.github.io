@@ -12,7 +12,7 @@ tags:
     - post
     - post format
 image:
-    title: "ecs_homepage.jpg"
+    title: "development/ecs_homepage.jpg"
     caption: Amazon's elastic container service
 author: yogi valani
 ---
