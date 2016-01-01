@@ -21,5 +21,5 @@ Spending time improving these processes will make you team more productive.
   * Scale seconds: Button click deploy to production.
 
 
-* "It works on my machine"
+* "It works on my machine" - Troubleshoot issues in production.
   * When a problem occurs in production, it is usually quite difficult to identify. There are so many factors or a combination of factors that could be causing issues. The most obscure errors can be down to different versions from the development environment and production. Usually a UAT environment is set up to match production as close as possible. However errors due to scaling may not recreated in UAT as
