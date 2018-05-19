@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Zeros for the partition function of the three-dimensional Ising model"
 subheadline: "PhD research results"
 ---
