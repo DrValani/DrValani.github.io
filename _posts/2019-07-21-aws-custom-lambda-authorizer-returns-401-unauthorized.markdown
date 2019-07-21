@@ -1,5 +1,5 @@
 ---
-title: How to return a 401 Unauthorized from AWS Custom Lambda Authorizer
+title: How to return a 401 Unauthorized response from AWS Custom Lambda Authorizer
 layout: post
 date: 2019-07-19 21:53
 headerImage: false
